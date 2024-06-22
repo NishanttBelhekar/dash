@@ -10,12 +10,13 @@ Tables: Display data in structured tables with sorting, filtering, and paginatio
 Charts: Visualize data using interactive charts and graphs.
 Calendar: Manage events and tasks with a built-in calendar.
 Kanban: Organize tasks using kanban boards for agile project management.
+
 Installation
 To run Dashboard App locally, follow these steps:
 
 Clone the repository:
 
-bash
+# bash
 Copy code
 git clone <repository-url>
 cd dashboard-app
